@@ -162,10 +162,3 @@ Retrieves the value associated with a key.
 - Memory usage is monitored and managed to prevent out-of-memory errors.
 - The CLOCK eviction algorithm provides a good balance between performance and memory efficiency.
 
-[10] https://caitiem20.wordpress.com/2016/08/18/a-quick-guide-to-testing-in-golang/
-[11] https://www.youtube.com/watch?v=balVSY4Qrj0
-[12] https://stackoverflow.com/questions/78890129/how-do-i-set-up-a-freeable-cache-in-golang-i-e-i-can-free-the-memory-when-memo
-[13] https://www.youtube.com/watch?v=tHVpVXU6pj8
-
----
-Answer from Perplexity: pplx.ai/share
