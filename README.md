@@ -136,7 +136,7 @@ Retrieves the value associated with a key.
 
 2. Run the Locust test:
    ```bash
-   locust -f locustfile.py --host=http://localhost:7172
+   locust -f locustfile.py --host=http://localhost:7171
    ```
 
 3. Open the Locust web interface at http://localhost:8089 and start the test.
