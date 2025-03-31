@@ -23,7 +23,7 @@ This is a high-performance in-memory Key-Value Cache service built with Go. The 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jash2606/Redis-Server.git
-   cd key-value-cache
+   cd REDIS-SERVER
    ```
 
 2. Build the application:
@@ -36,7 +36,7 @@ This is a high-performance in-memory Key-Value Cache service built with Go. The 
    ./key-value-cache
    ```
 
-   The server will start on port 7172 by default.
+   The server will start on port 7171 by default.
 
 ### Docker Deployment
 
@@ -47,7 +47,7 @@ This is a high-performance in-memory Key-Value Cache service built with Go. The 
 
 2. Run the container:
    ```bash
-   docker run -p 7172:7172 key-value-cache
+   docker run -p 7171:7171 key-value-cache
    ```
 
 ## API Documentation
